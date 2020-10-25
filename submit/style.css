@@ -1,0 +1,43 @@
+.container {
+	width:800px;
+	margin: 0 auto;
+}
+.header {
+	height: 100px;	
+}
+.content {
+	background-color: #ffffff;
+}
+.footer {
+    height:100px;
+}
+
+.regLegend {
+	background:#eaeaea; 
+	padding:5px 10px; 
+	border:2px solid #484343; 
+	border-radius:5px;
+}
+.regBtn{
+	height:35px;
+	width:150px;
+	font-size: 18px;
+}
+.regFieldset{
+	width: 500px; 
+	min-width: 500px; 
+	border: 2px solid #484343; 
+	border-radius:5px;
+	font-size: 16px;" 
+}
+.regInputfld{
+	height:25px;
+    font-size: 18px;
+} 
+.redFrame {
+    outline: 1px solid red;
+}
+
+#fldName{
+	text-transform:capitalize;
+}
